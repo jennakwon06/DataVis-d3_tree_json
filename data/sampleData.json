@@ -1,0 +1,220 @@
+{
+    "name": "Manager",
+    "children": [{
+        "name": "Team 1",
+        "children": [{
+            "name": "Chris",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }, {
+            "name": "Developer 1",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }, {
+            "name": "Developer 2",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }, {
+            "name": "Developer 3",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }, {
+            "name": "Developer 4",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }, {
+            "name": "Architect",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }, {
+            "name": "QA Engineer",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }, {
+            "name": "Product Owner",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }]
+    }, {
+        "name": "Team 2",
+        "children": [{
+            "name": "Developer 1",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }, {
+            "name": "Developer 2",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }, {
+            "name": "Developer 3",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }, {
+            "name": "VDeveloper 4",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }, {
+            "name": "Architect",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }, {
+            "name": "Product Owner",
+            "children": [{
+                "name": "Person 1",
+                "size": 3938
+            }, {
+                "name": "Person 1",
+                "size": 3812
+            }, {
+                "name": "Person 3",
+                "size": 6714
+            }, {
+                "name": "Person 4",
+                "size": 743
+            }]
+        }]
+    }]
+}
